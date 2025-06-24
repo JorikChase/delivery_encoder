@@ -4,3 +4,4 @@ assets/bin/macos/ffprobe
 assets/bin/windows/ffmpeg.exe
 assets/bin/windows/ffplay.exe
 assets/bin/windows/ffprobe.exe
+output/
