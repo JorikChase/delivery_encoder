@@ -1,6 +1,6 @@
 assets/video.mov
-assets/bin/windows/ffprobe.exe
-assets/bin/windows/ffplay.exe
-assets/bin/windows/ffmpeg.exe
-assets/bin/macos/ffprobe
 assets/bin/macos/ffmpeg
+assets/bin/macos/ffprobe
+assets/bin/windows/ffmpeg.exe
+assets/bin/windows/ffplay.exe
+assets/bin/windows/ffprobe.exe
